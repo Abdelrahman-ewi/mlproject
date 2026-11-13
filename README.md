@@ -1,7 +1,7 @@
 ---
 title: mlproject
 sdk: gradio
-app_file: app.py
+app_file: gradio_app.py
 ---
 # Student Exam Performance Predictor
 
