@@ -1,7 +1,7 @@
 ---
 title: mlproject
-sdk: docker
-app_port: 7860
+sdk: gradio
+app_file: app.py
 ---
 # Student Exam Performance Predictor
 
