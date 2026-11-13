@@ -1,3 +1,8 @@
+---
+title: mlproject
+sdk: docker
+app_port: 7860
+---
 # Student Exam Performance Predictor
 
 End-to-end ML project that predicts a student's math score from
